@@ -1,3 +1,3 @@
-Zeorri! aldizkaria :sparkles:
-Munttarpe eskubaloia :smile:
-Piztu Lezo :+1:
+- Zeorri! aldizkaria :sparkles:
+- Munttarpe eskubaloia :smile:
+- Piztu Lezo :+1:
