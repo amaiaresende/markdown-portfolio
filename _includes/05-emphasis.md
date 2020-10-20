@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Komunikazioa** ikasten dut, **elkarlana** gustatzen zait
+*Euskaraldian* parte hartuko dut eta *Zeorri!* aldizkariko koordinatzailea naiz
